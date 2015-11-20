@@ -1,1 +1,1 @@
-Empty text doc
+Empty new text file
